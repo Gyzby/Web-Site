@@ -4,6 +4,10 @@
         font-family: gyzby;
         src: url(/assest/font/AboutGyzby.ttf)
     }
+
+	html {
+	background-color: black;
+	}
     
     * {
         margin: 0;
